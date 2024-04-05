@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{A1BEF3B4-ACB2-4825-8997-518823EF02CC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test", "test", "{3BEF35FF-86CA-4B68-A066-93E752D95A2C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleProject", "src\ConsoleProject\ConsoleProject.csproj", "{562A1F6A-5E22-4098-81D6-2684A20CF6D9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{562A1F6A-5E22-4098-81D6-2684A20CF6D9} = {A1BEF3B4-ACB2-4825-8997-518823EF02CC}
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{562A1F6A-5E22-4098-81D6-2684A20CF6D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{562A1F6A-5E22-4098-81D6-2684A20CF6D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{562A1F6A-5E22-4098-81D6-2684A20CF6D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{562A1F6A-5E22-4098-81D6-2684A20CF6D9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

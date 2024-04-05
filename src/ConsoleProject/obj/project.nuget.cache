@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "GqxLjRY1HhDMOVJOMg+BH1Py16wB4qmpO+3oGxVnz+r9s5NmrnV2QGjiKhqvKrQn6Q3j4W77K25GFC0NdN2chQ==",
+  "success": true,
+  "projectFilePath": "/Users/ahadjonnematov/Desktop/projects/TestTask/src/ConsoleProject/ConsoleProject.csproj",
+  "expectedPackageFiles": [
+    "/Users/ahadjonnematov/.nuget/packages/microsoft.extensions.configuration/9.0.0-preview.2.24128.5/microsoft.extensions.configuration.9.0.0-preview.2.24128.5.nupkg.sha512",
+    "/Users/ahadjonnematov/.nuget/packages/microsoft.extensions.configuration.abstractions/9.0.0-preview.2.24128.5/microsoft.extensions.configuration.abstractions.9.0.0-preview.2.24128.5.nupkg.sha512",
+    "/Users/ahadjonnematov/.nuget/packages/microsoft.extensions.configuration.fileextensions/9.0.0-preview.2.24128.5/microsoft.extensions.configuration.fileextensions.9.0.0-preview.2.24128.5.nupkg.sha512",
+    "/Users/ahadjonnematov/.nuget/packages/microsoft.extensions.configuration.json/9.0.0-preview.2.24128.5/microsoft.extensions.configuration.json.9.0.0-preview.2.24128.5.nupkg.sha512",
+    "/Users/ahadjonnematov/.nuget/packages/microsoft.extensions.fileproviders.abstractions/9.0.0-preview.2.24128.5/microsoft.extensions.fileproviders.abstractions.9.0.0-preview.2.24128.5.nupkg.sha512",
+    "/Users/ahadjonnematov/.nuget/packages/microsoft.extensions.fileproviders.physical/9.0.0-preview.2.24128.5/microsoft.extensions.fileproviders.physical.9.0.0-preview.2.24128.5.nupkg.sha512",
+    "/Users/ahadjonnematov/.nuget/packages/microsoft.extensions.filesystemglobbing/9.0.0-preview.2.24128.5/microsoft.extensions.filesystemglobbing.9.0.0-preview.2.24128.5.nupkg.sha512",
+    "/Users/ahadjonnematov/.nuget/packages/microsoft.extensions.primitives/9.0.0-preview.2.24128.5/microsoft.extensions.primitives.9.0.0-preview.2.24128.5.nupkg.sha512",
+    "/Users/ahadjonnematov/.nuget/packages/system.text.encodings.web/9.0.0-preview.2.24128.5/system.text.encodings.web.9.0.0-preview.2.24128.5.nupkg.sha512",
+    "/Users/ahadjonnematov/.nuget/packages/system.text.json/9.0.0-preview.2.24128.5/system.text.json.9.0.0-preview.2.24128.5.nupkg.sha512"
+  ],
+  "logs": []
+}
