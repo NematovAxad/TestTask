@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "IPp5AxtNwzz4I8q5aNO5uI6gQuJvPfONcqRU63fZrji4P+Lz2+noOOjGt3TVzLPU4dSHNn0QFfwHPI69UoYy7w==",
+  "success": true,
+  "projectFilePath": "/Users/ahadjonnematov/Desktop/projects/TestTask/TestForConsoleProject/TestForConsoleProject.csproj",
+  "expectedPackageFiles": [
+    "/Users/ahadjonnematov/.nuget/packages/coverlet.collector/6.0.0/coverlet.collector.6.0.0.nupkg.sha512",
+    "/Users/ahadjonnematov/.nuget/packages/microsoft.codecoverage/17.6.0/microsoft.codecoverage.17.6.0.nupkg.sha512",
+    "/Users/ahadjonnematov/.nuget/packages/microsoft.net.test.sdk/17.6.0/microsoft.net.test.sdk.17.6.0.nupkg.sha512",
+    "/Users/ahadjonnematov/.nuget/packages/microsoft.testplatform.objectmodel/17.6.0/microsoft.testplatform.objectmodel.17.6.0.nupkg.sha512",
+    "/Users/ahadjonnematov/.nuget/packages/microsoft.testplatform.testhost/17.6.0/microsoft.testplatform.testhost.17.6.0.nupkg.sha512",
+    "/Users/ahadjonnematov/.nuget/packages/mstest.testadapter/3.0.4/mstest.testadapter.3.0.4.nupkg.sha512",
+    "/Users/ahadjonnematov/.nuget/packages/mstest.testframework/3.0.4/mstest.testframework.3.0.4.nupkg.sha512",
+    "/Users/ahadjonnematov/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512",
+    "/Users/ahadjonnematov/.nuget/packages/nuget.frameworks/5.11.0/nuget.frameworks.5.11.0.nupkg.sha512",
+    "/Users/ahadjonnematov/.nuget/packages/system.reflection.metadata/1.6.0/system.reflection.metadata.1.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}
